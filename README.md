@@ -7,13 +7,15 @@ Aplicação prática dos fundamentos de desenvolvimento Java.
 * **Arquitetura:** Padrão MVC (Model-View-Controller).
 * **Conceitos:** Implementação pura dos 4 pilares da POO (Abstração, Encapsulamento, Herança e Polimorfismo).
 * [**Ver mais sobre o projeto POO**](https://github.com/lucaslarry/BootcampAccenture/tree/main/POO)
-* 
+
 ---
+
 ### 🍃 2. API Gerenciador de Pedidos (Spring Boot)
 Implementação de uma API RESTful completa para gestão de e-commerce.
 * **Tech Stack:** Spring Security (JWT), Data JPA (PostgreSQL) e Swagger (OpenAPI).
 * **Arquitetura:** Estrutura robusta em camadas (Controller, Service, Repository) utilizando DTOs.
 * [**Ver mais sobre a API**](https://github.com/lucaslarry/OrderManagementsSpringBoot)
+  
 ---
 
 ### 🐳 3. Docker & Microsserviços
