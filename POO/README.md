@@ -4,7 +4,7 @@ Simulação de um ecossistema de Bootcamp aplicando os fundamentos da **Programa
 
 ## 📋 Resumo do Desafio
 
-O projeto seguiu 5 passos de modelagem:
+O projeto seguiu 4 passos de modelagem:
 
 1.  **Abstração:** Análise do cenário real (Cursos, Mentorias, Devs).
 2.  **Encapsulamento:** Proteção de atributos com métodos de acesso.
@@ -33,6 +33,5 @@ A organização das pastas reflete a separação de responsabilidades:
 ## 🛠️ Tecnologias
 
 - **Java 17**
-- **Paradigma OO** (Abstração, Encapsulamento, Herança, Polimorfismo)
 
 ---
